@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorFragment"
+    tools:context=".IndexFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:scaleType="fitStart"
+            android:src="@drawable/b"
+            android:id="@+id/iv_a"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginTop="10dp"
+            android:text="杭州西湖十景详解！！！
+                          by xx旅游攻略"
+            android:textSize="23sp"
+            android:id="@+id/tv_a"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/index_a"
+            android:scaleType="fitStart"
+            android:adjustViewBounds="true"
+            android:layout_marginTop="30dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginTop="10dp"
+            android:text="杭州西湖超强攻略！不绕路看西湖十景！
+                            by xx旅游攻略"
+            android:textSize="23sp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/index_b"
+            android:scaleType="fitStart"
+            android:adjustViewBounds="true"
+            android:layout_marginTop="30dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginTop="10dp"
+            android:text="夜游西湖游玩攻略
+                          by xx旅游攻略"
+            android:textSize="23sp"/>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

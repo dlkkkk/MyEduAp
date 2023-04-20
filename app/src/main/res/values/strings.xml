@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">游湖指南</string>
+    <string name="xh">\u3000\u3000西湖十景分布于杭州市西湖区，南宋（13世纪）初创、元明（14～16世纪）复兴、清代（17～19世纪）由鼎盛的“四字景目”系列方式组成，是最具突出普遍价值的景观。十景景名为：苏堤春晓、曲院风荷、平湖秋月、断桥残雪、花港观鱼、柳浪闻莺、三潭印月、双峰插云、雷峰夕照、南屏晚钟。这一系列景观涉及了春夏秋冬、晨晌昏夜、晴雾风雪、花鸟虫鱼等关于季节、时节、气象、动植物的景观特色，以及堤、岛、桥、亭、台、楼、阁、园林、宅院、寺塔等极为丰富的景观元素，并各有侧重地表现出或生动、或静谧、或隐逸、闲逸、冷寂、禅境等审美意境。</string>
+    <string-array name="area">
+        <item></item>
+        <item>北京</item>
+        <item>天津</item>
+        <item>河北</item>
+        <item>山西</item>
+        <item>内蒙古</item>
+        <item>辽宁</item>
+        <item>吉林</item>
+        <item>黑龙江</item>
+        <item>上海</item>
+        <item>江苏</item>
+        <item>浙江</item>
+        <item>安徽</item>
+        <item>福建</item>
+        <item>广西</item>
+        <item>山东</item>
+        <item>河南</item>
+        <item>湖北</item>
+        <item>湖南</item>
+        <item>广东</item>
+        <item>广西</item>
+        <item>海南</item>
+        <item>重庆</item>
+        <item>四川</item>
+        <item>贵州</item>
+        <item>云南</item>
+        <item>西藏</item>
+        <item>陕西</item>
+        <item>甘肃</item>
+        <item>青海</item>
+        <item>宁夏</item>
+        <item>新疆</item>
+        <item>台湾</item>
+        <item>香港</item>
+        <item>澳门</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
